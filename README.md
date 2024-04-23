@@ -1,5 +1,5 @@
-# Solidity-to-Rust-Soroban-SmartContracts
-A repo with sample contracts to show you how you can translate from Solidity to Rust and deploy on Stellar's Soroban smart contract platform.
+# Easy Stellar Soroban JS SDK Functions
+The repo with all the JS files written during the "Compile, Test, Deploy and Call Soroban Smart Contracts" video.
 
 <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/IMG_7494.JPG" width="650" height="370">
 
