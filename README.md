@@ -10,29 +10,16 @@ A repo with sample contracts to show you how you can translate from Solidity to 
 
 <h3>Repo Instructions</h3>
 
-Tutorial Video:
-
-<a href="https://youtu.be/1YttXux6yVY" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
-
-Repo Contents:
+Download the "sorobanjs" folder from this repo then navigate to it using shell or cmd and install dependencies:
 
 ```shell
-01-Rust-Demo_Tutorial-LogContract.rs
-01-Solidity-Demo_Tutorial-LogContract.sol
-02-Rust-Demo_Tutorial-VoteContract.rs
-02-Solidity-Demo_Tutorial-VoteContract.sol
+cd sorobanjs
+npm i
 ```
 
-<h3>Contracts Written During The Tutorial</h3>
+Follow the tutorial video for guidance:
 
-<h4>01-Solidity-Demo_Tutorial-LogContract.sol -  Watch @ https://youtu.be/1YttXux6yVY?t=8m16s</h4>
-
-<h4>01-Rust-Demo_Tutorial-LogContract.rs -  Watch @ https://youtu.be/1YttXux6yVY?t=12m50s</h4>
-
-<h4>02-Solidity-Demo_Tutorial-VoteContract.sol -  Watch @ https://youtu.be/1YttXux6yVY?t=18m11s</h4>
-
-<h4>02-Rust-Demo_Tutorial-VoteContract.rs -  Watch @ https://youtu.be/1YttXux6yVY?t=22m27s</h4>
-
+<a href="" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 <h3>Join Stellar's Dev Discord Community</h3>
 
