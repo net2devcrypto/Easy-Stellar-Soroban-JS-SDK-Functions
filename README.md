@@ -19,7 +19,7 @@ npm i
 
 Follow the tutorial video for guidance:
 
-<a href="" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+<a href="https://www.youtube.com/watch?v=AwFojd9tii4&t=1057s" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 <h3>Join Stellar's Dev Discord Community</h3>
 
